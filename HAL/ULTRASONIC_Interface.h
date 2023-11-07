@@ -1,0 +1,11 @@
+
+#ifndef ULTRASONIC_INTERFACE_H_
+#define ULTRASONIC_INTERFACE_H_
+//u16 ULTRASONIC_Distance(void);
+u16 ULTRASONIC_Distance(u16 *d);
+
+
+
+
+
+#endif /* ULTRASONIC_INTERFACE_H_ */
